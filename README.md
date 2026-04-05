@@ -7,7 +7,7 @@
 [![Course: Semester 4](https://img.shields.io/badge/Course-Semester_4-blueviolet?style=for-the-badge)]()
 
 ## ⚔️ Project Overview
-**Blind Box Battle Arena** is an action-packed 2D multiplayer platform fighter developed entirely in C++ using OpenGL. Drawing inspiration from fast-paced brawlers like Smash Bros., players duel in engaging, enclosed dynamic arenas. The project extensively explores principles of low-level 2D graphics programming, precise collision detection, and physics-based fluid character movement.
+**Blind Box Battle Arena** is an action-packed 3D multiplayer platform fighter developed entirely in C++ using OpenGL. Drawing inspiration from fast-paced brawlers like Smash Bros., players duel in engaging, enclosed dynamic arenas. The project extensively explores principles of low-level 2D graphics programming, precise collision detection, and physics-based fluid character movement.
 
 ## 🎯 Key Features
 *   **Custom Physics Engine:** Precise AABB (Axis-Aligned Bounding Box) collision detection and fluid gravity-based jumping algorithms.
