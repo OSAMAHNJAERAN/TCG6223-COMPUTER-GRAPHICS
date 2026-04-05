@@ -1,0 +1,190 @@
+# depslib dependency file v1.0
+1748749070 source:c:\users\mohammed sharafuddin\desktop\cg\project\testing\game.cpp
+	"Game.hpp"
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<cstring>
+
+1748749070 c:\users\mohammed sharafuddin\desktop\cg\project\testing\game.hpp
+	<GL/glut.h>
+	<vector>
+	<cmath>
+	<string>
+
+1748766001 source:c:\users\mohammed sharafuddin\desktop\cg\project\testing\main.cpp
+	<GL/glut.h>
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"Environment.hpp"
+	"Ghost.hpp"
+	"Slime.hpp"
+
+1748766001 c:\users\mohammed sharafuddin\desktop\cg\project\testing\environment.hpp
+	<GL/glut.h>
+	<vector>
+	<cmath>
+
+1748766001 source:c:\users\mohammed sharafuddin\desktop\cg\project\testing\environment.cpp
+	"Environment.hpp"
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1748766010 c:\users\mohammed sharafuddin\desktop\cg\project\testing\ghost.hpp
+	<GL/glut.h>
+	<vector>
+	<cmath>
+
+1748766001 source:c:\users\mohammed sharafuddin\desktop\cg\project\testing\ghost.cpp
+	"Ghost.hpp"
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<iostream>
+
+1748766001 source:c:\users\mohammed sharafuddin\desktop\cg\project\testing\slime.cpp
+	"Slime.hpp"
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<iostream>
+
+1748766001 c:\users\mohammed sharafuddin\desktop\cg\project\testing\slime.hpp
+	<GL/glut.h>
+	<vector>
+	<cmath>
+
+1748856308 source:c:\mmu\my course 4\computer graphics\project\c++\testing - copy\environment.cpp
+	"Environment.hpp"
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1748837966 c:\mmu\my course 4\computer graphics\project\c++\testing - copy\environment.hpp
+	<GL/glut.h>
+	<vector>
+	<cmath>
+
+1749017878 source:c:\mmu\my course 4\computer graphics\project\c++\testing - copy\ghost.cpp
+	"Ghost.hpp"
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<iostream>
+
+1749017954 c:\mmu\my course 4\computer graphics\project\c++\testing - copy\ghost.hpp
+	<GL/glut.h>
+	<vector>
+	<cmath>
+
+1749016301 source:c:\mmu\my course 4\computer graphics\project\c++\testing - copy\main.cpp
+	<GL/glut.h>
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"Environment.hpp"
+	"Ghost.hpp"
+	"Slime.hpp"
+
+1748850512 c:\mmu\my course 4\computer graphics\project\c++\testing - copy\slime.hpp
+	<GL/glut.h>
+	<vector>
+	<cmath>
+
+1748854208 source:c:\mmu\my course 4\computer graphics\project\c++\testing - copy\slime.cpp
+	"Slime.hpp"
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<iostream>
+
+1748856308 source:c:\mmu\my course 4\computer graphics\project\c++\readycode\environment.cpp
+	"Environment.hpp"
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1748837966 c:\mmu\my course 4\computer graphics\project\c++\readycode\environment.hpp
+	<GL/glut.h>
+	<vector>
+	<cmath>
+
+1749017878 source:c:\mmu\my course 4\computer graphics\project\c++\readycode\ghost.cpp
+	"Ghost.hpp"
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<iostream>
+
+1749017954 c:\mmu\my course 4\computer graphics\project\c++\readycode\ghost.hpp
+	<GL/glut.h>
+	<vector>
+	<cmath>
+
+1749016301 source:c:\mmu\my course 4\computer graphics\project\c++\readycode\main.cpp
+	<GL/glut.h>
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"Environment.hpp"
+	"Ghost.hpp"
+	"Slime.hpp"
+
+1748850512 c:\mmu\my course 4\computer graphics\project\c++\readycode\slime.hpp
+	<GL/glut.h>
+	<vector>
+	<cmath>
+
+1749018580 source:c:\mmu\my course 4\computer graphics\project\c++\readycode\slime.cpp
+	"Slime.hpp"
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<iostream>
+
+1749624911 source:c:\users\mohammed sharafuddin\desktop\cg\project\readycode essentiial\readycode\environment.cpp
+	"Environment.hpp"
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1749624911 c:\users\mohammed sharafuddin\desktop\cg\project\readycode essentiial\readycode\environment.hpp
+	<GL/glut.h>
+	<vector>
+	<cmath>
+
+1749630589 source:c:\users\mohammed sharafuddin\desktop\cg\project\readycode essentiial\readycode\ghost.cpp
+	"Ghost.hpp"
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<iostream>
+
+1749624911 c:\users\mohammed sharafuddin\desktop\cg\project\readycode essentiial\readycode\ghost.hpp
+	<GL/glut.h>
+	<vector>
+	<cmath>
+
+1749624911 source:c:\users\mohammed sharafuddin\desktop\cg\project\readycode essentiial\readycode\main.cpp
+	<GL/glut.h>
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"Environment.hpp"
+	"Ghost.hpp"
+	"Slime.hpp"
+
+1749624911 c:\users\mohammed sharafuddin\desktop\cg\project\readycode essentiial\readycode\slime.hpp
+	<GL/glut.h>
+	<vector>
+	<cmath>
+
+1749624911 source:c:\users\mohammed sharafuddin\desktop\cg\project\readycode essentiial\readycode\slime.cpp
+	"Slime.hpp"
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<iostream>
+
