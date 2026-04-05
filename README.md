@@ -1,4 +1,6 @@
-# 🎮 Blind Box Battle Arena
+﻿# 🎮 Blind Box Battle Arena
+
+### 📘 Course Project: TCG6223-COMPUTER GRAPHICS
 
 [![Language: C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B)](https://cplusplus.com/)
 [![Library: OpenGL](https://img.shields.io/badge/Library-OpenGL-5586A4?style=for-the-badge&logo=opengl)](https://www.opengl.org/)
